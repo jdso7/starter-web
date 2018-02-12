@@ -5,6 +5,7 @@
 This repository is for showing how Git and GitHub work
 Mais texto
 yet another
+mais lixo por causa do rebase
 
 ## Purpose
 
