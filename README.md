@@ -7,6 +7,7 @@ Mais texto
 yet another
 mais lixo por causa do rebase
 more changes from myfeature branch
+stash multiple
 
 ## Purpose
 
