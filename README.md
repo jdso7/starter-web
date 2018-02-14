@@ -20,3 +20,7 @@ bla
 
 adasdas
 
+## Copyright
+
+All copyrights
+
